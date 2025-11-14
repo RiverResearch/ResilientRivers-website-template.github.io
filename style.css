@@ -93,7 +93,7 @@ blockquote p:last-child {
 /* Full size background image */
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(background.jpg) center center no-repeat fixed;
+  background:url(2023-02-17-00_00_2023-02-17-23_59_Sentinel-2_L2A_Highlight_Optimized_Natural_Color.jpg) center center no-repeat fixed;
   background-size:cover;
 }
 body {
